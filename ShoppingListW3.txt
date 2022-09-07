@@ -7,3 +7,6 @@ Bananas
 Cherries
 Cereal
 Oats
+Oranges
+Cucumbers
+Raddishes
