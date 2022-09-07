@@ -5,3 +5,5 @@ Milk
 Grapes
 Bananas
 Cherries
+Cereal
+Oats
