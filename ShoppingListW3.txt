@@ -1,12 +1,12 @@
 Shopping List Assignment Week 3 DMA C119
 
-01. Apple
-02. Milk
-03. Grapes
-04. Bananas
-05. Cherries
-06. Cereal
-07. Oats
-08. Oranges
-09. Cucumbers
-10. Raddishes
+01. Apple     1 lb
+02. Milk      1 lb
+03. Grapes    2 lbs
+04. Bananas   1 lb
+05. Cherries  3 lbs
+06. Cereal    1 box
+07. Oats      1 package
+08. Oranges   2 lbs
+09. Cucumbers 1 lb
+10. Raddishes 2 lbs
