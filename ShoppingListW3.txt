@@ -10,3 +10,14 @@ Shopping List Assignment Week 3 DMA C119
 08. Oranges   2 lbs
 09. Cucumbers 1 lb
 10. Raddishes 2 lbs
+
+
+Ingredients for Apple Pie
+Checklist
+8 small Granny Smith apples, or as needed
+½ cup unsalted butter
+3 tablespoons all-purpose flour
+½ cup white sugar
+½ cup packed brown sugar
+¼ cup water
+1 (9 inch) double-crust pie pastry, thawed
